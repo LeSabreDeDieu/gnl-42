@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-	<img src="https://img.shields.io/badge/Score-112-darkgreen?style=none&logo=42" alt="Score project : 112"/>
+	<img src="https://img.shields.io/badge/Score-112-green?style=none&logo=42" alt="Score project : 112"/>
 	<img alt="Static Badge" src="https://img.shields.io/badge/Outstanding-1-blue?style=none&logo=42">
 	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeSabreDeDieu/gnl-42?style=none&logo=github">
 </p>
