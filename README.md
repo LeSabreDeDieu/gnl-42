@@ -1,4 +1,21 @@
-# Fonction get_next_line
+<h1 align="center">
+	42 Project - Get Next Line
+</h1>
+
+<p align="center">
+	<b><i> Reading a line from a fd is way too tedious </i></b>
+</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/gnlm.png" alt="gnl_logo" />
+</p>
+
+---
+<p align="center">
+	<img src="https://img.shields.io/badge/Score-112-darkgreen?style=none&logo=42" alt="Score project : 112"/>
+	<img alt="Static Badge" src="https://img.shields.io/badge/Outstanding-1-blue?style=none&logo=42">
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeSabreDeDieu/gnl-42?style=none&logo=github">
+</p>
 
 ## Description
 La fonction `get_next_line` est une fonction permettant de lire une ligne depuis un descripteur de fichier ou une entrée standard. Cette fonction est implémentée de manière à être utilisée dans des projets nécessitant la lecture de fichiers ou d'entrées utilisateur ligne par ligne.
