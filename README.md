@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/gnlm.png" alt="gnl_logo" />
+	<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="gnl_logo" />
 </p>
 
 ---
